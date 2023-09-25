@@ -5,4 +5,4 @@ Welcome to my website. I am currently a Parliamentary Intern with the Parliament
 - Honours BA, Political Science (Economics Minor) | Western University (2019-2023)
 
 ## CV 
-You can access my CV 
+You can access my CV [here](cynthiachuo.github.io/CV - Cynthia Huo.pdf)

@@ -12,3 +12,6 @@ Huo, Cynthia, Philip Charbonneau, and Christopher Alcantara. 2022. “Overcoming
 
 ## CV 
 You can access my CV [here](cynthiachuo.github.io/documents/CV - Cynthia Huo.pdf)
+
+## Contact 
+You can find me on Twitter [here](https://twitter.com/cynthiachuo) and email me at <u>cynthiachuo@hotmail.com</u>

@@ -1,6 +1,7 @@
 # Hello! 
 Welcome to my website. I am currently a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/). I recently graduated with an Honours BA from **Western University**, where I studied political science and economics. 
 
+~
 <br/>
 
 ## Research Interests
@@ -10,6 +11,7 @@ My undergraduate thesis analyzed partisanship levels of Members of Parliament (M
 
 In my current role as a parliamentary intern, I hope to use this unique opportunity to witness the inner workings of the Canadian Parliament in a non-partisan manner to go beyond the academic theories of Canadian politics. Through positions with MPs from both government and opposition parties, I hope to analyze and reconcile differences between the theoretical foundations of the Canadian parliamentary system and how politics is done in practice and leverage this learning in my research, to become a better student of political science. 
 
+~
 <br/>
 
 ## Publications
@@ -24,19 +26,21 @@ Constraints.” _Forthcoming at Publius: The Journal of Federalism_
 
 - **Huo, Cynthia** and Jonathan Malloy. 2023. [“Extreme partisanship is infecting committees, and we should be worried.”](https://policyoptions.irpp.org/magazines/march-2023/house-committees-extreme-partisanship/) Policy Options.
 
+~
 <br/>
 
 ## Works in Progress
 - Payler, Megan, **Cynthia Huo**, Cameron Anderson, Nandita Biswas Mellamphy, and Christopher Alcantara. “Is there a Gender Gap in the Canadian Journal of Political Science?” _Revise and Resubmit at American Review of Canadian Studies_
 
+~
 <br/>
 
 ## CV 
 You can access my CV [here](cynthiachuo.github.io/documents/CV - Cynthia Huo.pdf).
 
+~
 <br/>
 
 ## Contact 
-You can find me on Twitter [here](https://twitter.com/cynthiachuo) My email address is **chuo4 (at) uwo.ca**
+You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **chuo4 (at) uwo.ca**
 
-#underline <u>cynthiachuo@hotmail.com</u>

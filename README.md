@@ -10,6 +10,8 @@ My undergraduate thesis analyzed partisanship levels of Members of Parliament (M
 
 In my current role as a parliamentary intern, I hope to use this unique opportunity to witness the inner workings of the Canadian Parliament in a non-partisan manner to go beyond the academic theories of Canadian politics. Through positions with MPs from both government and opposition parties, I hope to analyze and reconcile differences between the theoretical foundations of the Canadian parliamentary system and how politics is done in practice. I aim to then leverage this learning in my own research, with the goal of becoming a better student of political science. 
 
+I am also passionate about civic education; particularly, I strongly believe in the potential that educating Canadians about our government has in creating a more engaged, collaborative democracy. 
+
 <br/>
 
 ## Publications

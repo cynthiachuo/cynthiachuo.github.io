@@ -16,8 +16,7 @@ I am also passionate about civic education; particularly, I strongly believe in 
 
 ## Publications
 ### Peer-Reviewed 
-- Brie, Evelyne, **Cynthia Huo**, and Christopher Alcantara. 2023. “Measuring Policy Diffusion in Federal Systems: The Case of Legalizing Cannabis in Canada under Time
-Constraints.” _Forthcoming at Publius: The Journal of Federalism_
+- Brie, Evelyne, **Cynthia Huo**, and Christopher Alcantara. 2023. [“Measuring Policy Diffusion in Federal Systems: The Case of Legalizing Cannabis in Canada under Time Constraints.”](https://doi.org/10.1093/publius/pjad036) _Publius: The Journal of Federalism_.
 
 - **Huo, Cynthia**, Philip Charbonneau, and Christopher Alcantara. 2022. [“Overcoming Barriers to Indigenous-Local Water Sharing Agreements in Canada.”](https://doi.org/10.1111/capa.12492) _Canadian Public Administration_ 65, no. 3: 421-438.
 

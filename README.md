@@ -6,11 +6,10 @@ Welcome to my website. I am currently a Parliamentary Intern with the [**Parliam
 ## Research Interests
 My research interests lie in the broad area of Canadian politics. More specifically, I am interested in legislative politics, partisanship, polarization, and federalism. Questions surrounding the mechanisms behind interactions between actors in political institutions and the implications of changes in these relationships in an increasingly partisan and polarized political environment animate my research.
 
-My undergraduate thesis analyzed partisanship levels of Members of Parliament (MPs) in committees in the Canadian House of Commons and found committee and government type to be important determinants of partisanship levels; specifically, I found an increased level of partisan discourse in more public-facing committees (i.e., Finance compared to Fisheries and Oceans) and in minority governments compared to majorities. 
+<br/>
 
-In my current role as a parliamentary intern, I hope to use this unique opportunity to witness the inner workings of the Canadian Parliament in a non-partisan manner to go beyond the academic theories of Canadian politics. Through positions with MPs from both government and opposition parties, I hope to analyze and reconcile differences between the theoretical foundations of the Canadian parliamentary system and how politics is done in practice. I aim to then leverage this learning in my own research, with the goal of becoming a better student of political science. 
-
-I am also passionate about civic education; particularly, I strongly believe in the potential that educating Canadians about our government has in creating a more engaged, collaborative democracy. 
+## CV 
+You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV - Oct 2023 - Cynthia Huo.pdf).
 
 <br/>
 
@@ -29,11 +28,6 @@ I am also passionate about civic education; particularly, I strongly believe in 
 
 ## Works in Progress
 - Payler, Megan, **Cynthia Huo**, Cameron Anderson, Nandita Biswas Mellamphy, and Christopher Alcantara. “Is there a Gender Gap in the Canadian Journal of Political Science?” _Revise and Resubmit at American Review of Canadian Studies_
-
-<br/>
-
-## CV 
-You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV - Cynthia Huo.pdf).
 
 <br/>
 

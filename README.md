@@ -4,17 +4,19 @@ Welcome to my website. I am currently a Parliamentary Intern with the [**Parliam
 <br/>
 
 ## Research Interests
-My research interests lie in the broad area of Canadian politics. More specifically, I am interested in legislative politics, partisanship, polarization, and federalism. Questions surrounding the mechanisms behind interactions between actors in political institutions and the implications of changes in these relationships in an increasingly partisan and polarized political environment animate my research.
+I am interested in legislative politics, elite polarization, and political parties in advanced democracies. Questions surrounding the ways that institutions impact political elites and the implications of these relationships in polarized political environments animate my research.
 
 <br/>
 
 ## CV 
-You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV - Oct 2023 - Cynthia Huo.pdf).
+You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV-02-2024.pdf).
 
 <br/>
 
 ## Publications
 ### Peer-Reviewed 
+- Payler, Megan, **Cynthia Huo**, Cameron Anderson, Nandita Biswas Mellamphy, and Christopher Alcantara. 2024. “Is there a Gender Gap in the Canadian Journal of Political Science?” _Forthcoming at the American Review of Canadian Studies_.
+
 - Brie, Evelyne, **Cynthia Huo**, and Christopher Alcantara. 2023. [“Measuring Policy Diffusion in Federal Systems: The Case of Legalizing Cannabis in Canada under Time Constraints.”](https://doi.org/10.1093/publius/pjad036) _Publius: The Journal of Federalism_.
 
 - **Huo, Cynthia**, Philip Charbonneau, and Christopher Alcantara. 2022. [“Overcoming Barriers to Indigenous-Local Water Sharing Agreements in Canada.”](https://doi.org/10.1111/capa.12492) _Canadian Public Administration_ 65, no. 3: 421-438.
@@ -27,10 +29,10 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 <br/>
 
 ## Works in Progress
-- Payler, Megan, **Cynthia Huo**, Cameron Anderson, Nandita Biswas Mellamphy, and Christopher Alcantara. “Is there a Gender Gap in the Canadian Journal of Political Science?” _Revise and Resubmit at American Review of Canadian Studies_
+- **Cynthia Huo**. “Measuring Partisanship in the Canadian House of Commons: Committees as a Cooperative Workplace?” In _Parliament as a Workplace: Trends and Changes_. Organized by the Canadian Study of Parliament Group. 
 
 <br/>
 
 ## Contact 
-You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **chuo4 (at) uwo.ca**
+You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **cynthiachuo@hotmail.com**
 

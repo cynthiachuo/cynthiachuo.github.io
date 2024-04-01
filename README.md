@@ -1,10 +1,10 @@
 # Hello! 
-Welcome to my website. I am currently a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/). I recently graduated with an Honours BA from **Western University**, where I studied political science and economics. I am currently applying to doctoral programs in political science for the 2023-2024 cycle. 
+Welcome to my website. I am currently a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/). I recently graduated with an Honours BA from **Western University**, where I studied political science and economics. 
 
 <br/>
 
 ## Research Interests
-I am interested in legislative politics, elite polarization, and political parties in advanced democracies. Questions surrounding the ways that institutions impact political elites and the implications of these relationships in polarized political environments animate my research.
+I am interested in legislative behaviour, political parties, and elite polarization in high income democracies. Questions surrounding the ways that institutions impact political elites and the implications of these relationships in polarized political environments animate my research.
 
 <br/>
 
@@ -29,10 +29,13 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 <br/>
 
 ## Works in Progress
-- **Cynthia Huo**. “Measuring Partisanship in the Canadian House of Commons: Committees as a Cooperative Workplace?” In _Parliament as a Workplace: Trends and Changes_. Organized by the Canadian Study of Parliament Group. 
+- **Cynthia Huo**. “Committees as a Workplace.” In _Parliament as a Workplace: Trends and Changes_. Organized by the Canadian Study of Parliament Group. 
 
 <br/>
 
 ## Contact 
 You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **cynthiachuo@hotmail.com**
+
+## Ethics Documentation
+Survey of MPs in the Canadian House of Commons (2024): available in English [here] and French [here]. 
 

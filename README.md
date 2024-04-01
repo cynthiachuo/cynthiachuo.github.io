@@ -37,5 +37,5 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **cynthiachuo@hotmail.com**
 
 ## Ethics Documentation
-Survey of MPs in the Canadian House of Commons (2024): available in English [here](cynthiachuo.github.io/documents/Ethics Documentation English.pdf) and French [here]. 
-
+Survey of MPs in the Canadian House of Commons (2024): available in English [here](cynthiachuo.github.io/documents/Ethics_Documentation_English.pdf).
+ and French [here]. 

@@ -1,5 +1,5 @@
 # Hello! 
-Welcome to my website. I am currently a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/). I recently graduated with an Honours BA from **Western University**, where I studied political science and economics. This fall, I will start my PhD in the Politics department at Princeton University. 
+Welcome to my website. I am currently a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/). I recently graduated with an Honours BA from **Western University**, where I studied political science and economics. This fall, I will start my PhD in Politics at **Princeton University**. 
 
 <br/>
 

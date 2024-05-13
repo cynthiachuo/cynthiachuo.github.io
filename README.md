@@ -22,7 +22,7 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 - **Huo, Cynthia**, Philip Charbonneau, and Christopher Alcantara. 2022. [“Overcoming Barriers to Indigenous-Local Water Sharing Agreements in Canada.”](https://doi.org/10.1111/capa.12492) _Canadian Public Administration_ 65, no. 3: 421-438.
 
 ### Other Publications 
-- **Huo, Cynthia**. 2023. “A Question of Privilege: The Speaker as Guardian of the House of Commons.” _Canadian Parliamentary Review_ 46, no. 2: 31-37.
+- **Huo, Cynthia**. 2023. [“A Question of Privilege: The Speaker as Guardian of the House of Commons.”](https://www.revparlcan.ca/wp-content/uploads/2023/11/46n2e_23Whole.pdf) _Canadian Parliamentary Review_ 46, no. 2: 25-31. 
 
 - **Huo, Cynthia** and Jonathan Malloy. 2023. [“Extreme partisanship is infecting committees, and we should be worried.”](https://policyoptions.irpp.org/magazines/march-2023/house-committees-extreme-partisanship/) Policy Options.
 

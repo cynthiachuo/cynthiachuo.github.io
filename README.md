@@ -1,5 +1,5 @@
 # Hello! 
-Welcome to my website. I am a PhD student in Politics at **Princeton University**. I hold a BA from **Western University**, where I studied Political Science and Economics. Before coming to Princeton, I was a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/).
+Welcome to my website. I am a PhD student in Politics at **Princeton University**. I hold a BA in Political Science and Economics from **Western University**. Before coming to Princeton, I was a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/).
 
 <br/>
 

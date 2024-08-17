@@ -1,21 +1,16 @@
 # Hello! 
-Welcome to my website. I am currently a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/). I recently graduated with an Honours BA from **Western University**, where I studied political science and economics. This fall, I will start my PhD in Politics at **Princeton University**. 
-
-<br/>
-
-## Research Interests
-I am interested in legislative behaviour, political parties, and elite polarization in high income democracies. Questions surrounding the ways that institutions impact political elites and the implications of these relationships in polarized political environments animate my research.
+Welcome to my website. I am a PhD student in Politics at **Princeton University**. I hold a BA from **Western University**, where I studied Political Science and Economics. Before coming to Princeton, I was a Parliamentary Intern with the [**Parliamentary Internship Programme**](https://pip-psp.org/).
 
 <br/>
 
 ## CV 
-You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV-02-2024.pdf).
+You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV-09-2024.pdf).
 
 <br/>
 
 ## Publications
 ### Peer-Reviewed 
-- Payler, Megan, **Cynthia Huo**, Cameron Anderson, Nandita Biswas Mellamphy, and Christopher Alcantara. 2024. “Is there a Gender Gap in the Canadian Journal of Political Science?” _Forthcoming at the American Review of Canadian Studies_.
+- Payler, Megan, **Cynthia Huo**, Cameron Anderson, Nandita Biswas Mellamphy, and Christopher Alcantara. 2024. [“The Gender Gap and Academic Publishing in Political Science: Evidence from Canada.”](https://doi.org/10.1080/02722011.2024.2349432) _American Review of Canadian Studies_.
 
 - Brie, Evelyne, **Cynthia Huo**, and Christopher Alcantara. 2023. [“Measuring Policy Diffusion in Federal Systems: The Case of Legalizing Cannabis in Canada under Time Constraints.”](https://doi.org/10.1093/publius/pjad036) _Publius: The Journal of Federalism_.
 
@@ -34,7 +29,7 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 <br/>
 
 ## Contact 
-You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **cynthiachuo@hotmail.com**
+You can find me on Twitter [here](https://twitter.com/cynthiachuo). My email address is **cynthia.huo@princeton.edu**
 
 <br/>
 

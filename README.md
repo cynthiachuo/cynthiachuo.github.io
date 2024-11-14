@@ -1,5 +1,5 @@
 # Hello! 
-Welcome to my website. I am a first-year PhD student in the Department of Politics at **Princeton University**. My research interests are in legislative institutions, political elite behavior, and the impact of party cues on public opinion.
+Welcome to my website. I am a first-year PhD student in Politics at **Princeton University**. My research interests are in legislative institutions, political elite behavior, and the impact of party cues on public opinion.
 
 I received my BA in Political Science from the **University of Western Ontario** in 2023. Before coming to Princeton, I worked on Parliament Hill as part of the [**Parliamentary Internship Programme**](https://pip-psp.org/).
 

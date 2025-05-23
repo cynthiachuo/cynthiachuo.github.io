@@ -8,7 +8,7 @@ I grew up in Markham, Ontario and am a proud second-generation Chinese-Canadian.
 <br/>
 
 ## CV 
-You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV-05-2025.pdf).
+You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV_05_2025.pdf).
 
 <br/>
 

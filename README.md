@@ -2,11 +2,11 @@
 
 <br/>
 
-I am a second-year PhD student in Politics at **Princeton University**. My research interests are in legislative institutions, political elite behavior, and the impact of party cues on public opinion.
+I am a second-year PhD student in Politics at **Princeton University**. My research interests are in legislative politics, the impact of party cues on public opinion, and minority political behaviour. 
 
-I received my BA in Political Science from the **University of Western Ontario** in 2023. Before coming to Princeton, I worked on Parliament Hill as part of the [**Parliamentary Internship Programme**](https://pip-psp.org/).
+I grew up in Markham, Ontario and received my BA in Political Science from the **University of Western Ontario** in 2023. 
 
-I grew up in Markham, Ontario and am a proud second-generation Chinese-Canadian.
+Before coming to Princeton, I worked on Parliament Hill as part of the [**Parliamentary Internship Programme**](https://pip-psp.org/).
 
 <br/>
 

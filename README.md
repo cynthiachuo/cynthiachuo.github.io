@@ -2,7 +2,7 @@
 
 <br/>
 
-I am a second-year PhD student in Politics at **Princeton University**. My research interests are in legislative politics, the impact of party cues on public opinion, and minority political behaviour. 
+I am a second-year PhD student in Politics at **Princeton University** and an affiliate of the **Center for the Study of Democratic Politics**. My research interests are in legislative politics, the impact of party cues on public opinion, and minority political behaviour. 
 
 I grew up in Markham, Ontario and received my BA in Political Science from the **University of Western Ontario** in 2023. 
 

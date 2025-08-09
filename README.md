@@ -11,7 +11,7 @@ Before coming to Princeton, I worked on Parliament Hill as part of the [**Parlia
 <br/>
 
 ## CV 
-You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV_05_2025.pdf).
+You can access the latest version of my CV [here](cynthiachuo.github.io/documents/CV_08_2025.pdf).
 
 <br/>
 

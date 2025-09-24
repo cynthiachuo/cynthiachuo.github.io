@@ -1,0 +1,127 @@
+member_id,full_name,last_name,riding,last_first,party,gender,year_of_birth,place_of_birth,career,religion,type,year,candidate_percent,margin,total_valid_votes
+M0001,"Anand, Deepak",Anand,Mississauga-Malton,anand_deepak,Progressive Conservative,m,NA,india,engineering,NA,election,2018,39.116216,6.28,37611
+M0002,"Andrew, Jill",Andrew,Toronto-St. Paul's,andrew_jill,CCF/NDP,f,NA,NA,business,NA,election,2018,35.9585512,2.57,52402
+M0003,"Armstrong, Teresa J.",Armstrong,London-Fanshawe,armstrong_teresa,CCF/NDP,f,1966,ontario,business,NA,election,2018,55.67623538,25.89,45391
+M0004,"Arnott, Ted",Arnott,Wellington-Halton Hills,arnott_ted,Progressive Conservative,m,1963,ontario,politicalstaff,NA,election,2018,54.0034798,29.97,58624
+M0005,"Arthur, Ian",Arthur,Kingston and the Islands,arthur_ian,CCF/NDP,m,1984,newfoundland,business,NA,election,2018,39.15606355,11.64,55644
+M0006,"Baber, Roman",Baber,York Centre,baber_roman,Progressive Conservative,m,1980,sovietunion,law,jewish,election,2018,50.14553467,26.7,36761
+M0007,"Babikian, Aris",Babikian,Scarborough-Agincourt,babikian_aris,Progressive Conservative,m,NA,NA,publicservice,NA,election,2018,50.39733124,22.11,36871
+M0008,"Bailey, Robert",Bailey,Sarnia-Lambton,bailey_robert,Progressive Conservative,m,1951,ontario,business,NA,election,2018,52.7464096,15.38,50830
+M0009,"Barrett, Toby",Barrett,Haldimand-Norfolk,barrett_toby,Progressive Conservative,m,1945,ontario,agriculture,NA,election,2018,57.10078469,30.2,50593
+M0010,"Begum, Doly",Begum,Scarborough Southwest,begum_doly,CCF/NDP,f,1989,bangladesh,business,NA,election,2018,45.65752826,14.43,43443
+M0011,"Bell, Jessica",Bell,University-Rosedale,bell_jessica,CCF/NDP,f,NA,NA,business,NA,election,2018,49.65797782,27.6,49412
+M0012,"Berns-McGown, Rima",Berns-McGown,Beaches-East York,berns-mcgown_rima,CCF/NDP,f,NA,southafrica,education,NA,election,2018,48.21092279,21.2,49914
+M0013,"Bethlenfalvy, Hon. Peter",Bethlenfalvy,Pickering-Uxbridge,bethlenfalvy_peter,Progressive Conservative,m,NA,quebec,business,NA,election,2018,42.19916154,10.18,53193
+M0014,"Bisson, Gilles",Bisson,Timmins,bisson_gilles,CCF/NDP,m,NA,ontario,unionism,NA,election,2018,57.42979594,27.79,15633
+M0015,"Blais, Stephen",Blais,Orléans,blais_stephen,Liberal,m,1980,ontario,politicalstaff,catholic,byelection,2018,55.01153846,32.15,26000
+M0016,"Bouma, Will",Bouma,Brantford-Brant,bouma_will,Progressive Conservative,m,NA,NA,medicine,NA,election,2018,41.99663161,1.09,58188
+M0017,"Bourgouin, Guy",Bourgouin,Mushkegowuk-James Bay,bourgouin_guy,CCF/NDP,m,NA,ontario,business,NA,election,2018,51.76962677,21.79,9324
+M0018,"Burch, Jeff",Burch,Niagara Centre,burch_jeff,CCF/NDP,m,NA,NA,unionism,NA,election,2018,44.23210705,6.72,48874
+M0019,"Calandra, Hon. Paul",Calandra,Markham-Stouffville,calandra_paul,Progressive Conservative,m,1970,ontario,business,NA,election,2018,48.12242321,22.11,53846
+M0020,"Cho, Hon. Stan",Cho (Willowdale),Willowdale,cho_stan,Progressive Conservative,m,1977,ontario,business,NA,election,2018,43.625449,17.02,40646
+M0021,"Cho, Hon. Raymond Sung Joon",Cho (Scarborough North),Scarborough North,cho_raymond,Progressive Conservative,m,1936,korea,communitywork,NA,election,2018,51.04505614,26.66,34113
+M0022,"Clark, Steve",Clark,Leeds-Grenville-Thousand Islands and Rideau Lakes,clark_steve,Progressive Conservative,m,1960,ontario,publicservice,NA,election,2018,61.26733239,41.48,48969
+M0023,"Coe, Lorne",Coe,Whitby,coe_lorne,Progressive Conservative,m,1950,ontario,publicservice,NA,election,2018,45.80074746,9.19,57796
+M0024,"Collard, Lucille",Collard,Ottawa-Vanier,collard_lucille,Liberal,f,NA,NA,communitywork,NA,byelection,2018,54.12266556,27.95,19223
+M0025,"Coteau, Michael",Coteau,Don Valley East,coteau_michael,Liberal,m,1972,england,education,NA,election,2018,35.92787917,2.84,36217
+M0026,"Crawford, Hon. Stephen",Crawford,Oakville,crawford_stephen,Progressive Conservative,m,NA,ontario,business,NA,election,2018,43.67252202,7.93,56871
+M0027,"Cuzzetto, Rudy",Cuzzetto,Mississauga-Lakeshore,cuzzetto_rudy,Progressive Conservative,m,NA,ontario,business,NA,election,2018,42.33162277,7.3,53199
+M0028,"Des Rosiers, Nathalie",Des Rosiers,Ottawa-Vanier,desrosiers_nathalie,Liberal,f,1959,quebec,law,NA,election,2018,42.86041953,13.18,47958
+M0029,"Downey, Hon. Doug",Downey,Barrie-Springwater-Oro-Medonte,downey_doug,Progressive Conservative,m,1970,ontario,law,NA,election,2018,44.74818884,16.53,45689
+M0030,"Dunlop, Hon. Jill",Dunlop,Simcoe North,dunlop_jill,Progressive Conservative,f,1975,ontario,education,NA,election,2018,46.91665582,18.88,53789
+M0031,"Elliott, Christine",Elliott,Newmarket-Aurora,elliott_christine,Progressive Conservative,f,1955,ontario,law,NA,election,2018,47.70538135,23.86,52013
+M0032,"Fedeli, Hon. Victor",Fedeli,Nipissing,fedeli_victor,Progressive Conservative,m,1956,ontario,business,NA,election,2018,49.93332009,13.06,35243
+M0033,"Fee, Amy",Fee,Kitchener South-Hespeler,fee_amy,Progressive Conservative,f,1981,ontario,communications,catholic,election,2018,38.86495775,1.81,42483
+M0034,"Fife, Catherine",Fife,Waterloo,fife_catherine,CCF/NDP,f,1968,ontario,communitywork,NA,election,2018,50.54215084,19.14,54044
+M0035,"Ford, Hon. Doug",Ford,Etobicoke North,ford_doug,Progressive Conservative,m,1964,ontario,business,NA,election,2018,52.48443783,27.12,36306
+M0036,"Fraser, John",Fraser,Ottawa South,fraser_john,Liberal,m,1959,ontario,business,NA,election,2018,39.63102869,10.41,52416
+M0037,"French, Jennifer K.",French,Oshawa,french_jennifer,CCF/NDP,f,1978,ontario,education,NA,election,2018,44.88299503,3.15,54143
+M0038,"Fullerton, Merrilee",Fullerton,Kanata-Carleton,fullerton_merrilee,Progressive Conservative,f,NA,yukon,medicine,NA,election,2018,43.19495632,14.03,53453
+M0039,"Gates, Wayne",Gates,Niagara Falls,gates_wayne,CCF/NDP,m,NA,NA,business,NA,election,2018,50.79234098,15.22,59381
+M0040,"Gélinas, France",Gelinas,Nickel Belt,gelinas_france,CCF/NDP,f,NA,quebec,medicine,NA,election,2018,63.5012477,41.51,36467
+M0041,"Ghamari, Goldie",Ghamari,Carleton,ghamari_goldie,Progressive Conservative,f,1985,iran,law,NA,election,2018,51.33113136,28.83,50258
+M0042,"Gill, Parm",Gill,Milton,gill_parm,Progressive Conservative,m,1974,india,business,NA,election,2018,41.67484985,11.84,43789
+M0043,"Glover, Chris",Glover,Spadina-Fort York,glover_chris,CCF/NDP,m,1961,ontario,education,NA,election,2018,49.62096077,25.95,49731
+M0044,"Gravelle, Michael",Gravelle,Thunder Bay-Superior North,gravelle_michael,Liberal,m,1949,ontario,business,NA,election,2018,39.86349259,2.71,30035
+M0045,"Gretzky, Lisa",Gretzky,Windsor West,gretzky_lisa,CCF/NDP,f,1971,ontario,publicservice,NA,election,2018,52.12473328,23.66,38899
+M0046,"Hardeman, Ernie",Hardeman,Oxford,hardeman_ernie,Progressive Conservative,m,1947,ontario,business,NA,election,2018,55.72824071,25.3,52311
+M0047,"Harden, Joel",Harden,Ottawa Centre,harden_joel,CCF/NDP,m,1971,ontario,education,NA,election,2018,46.0770461,13.3,64403
+M0048,"Harris, Hon. Mike",Harris,Kitchener-Conestoga,harris_mike,Progressive Conservative,m,1985,ontario,business,NA,election,2018,39.57043794,1.6,42974
+M0049,"Hassan, Faisal",Hassan,York South-Weston,hassan_faisal,CCF/NDP,m,NA,somalia,communications,NA,election,2018,36.07432034,3.12,37298
+M0050,"Hatfield, Percy",Hatfield,Windsor-Tecumseh,hatfield_percy,CCF/NDP,m,1948,newbrunswick,journalism,NA,election,2018,58.40492787,31.36,43183
+M0051,"Hillier, Randy",Hillier,Lanark-Frontenac-Kingston,hillier_randy,Progressive Conservative,m,1958,ontario,business,NA,election,2018,52.03106688,21.56,50343
+M0052,"Hogarth, Christine",Hogarth,Etobicoke-Lakeshore,hogarth_christine,Progressive Conservative,f,NA,NA,politicalstaff,NA,election,2018,38.35370298,5.47,58993
+M0053,"Horwath, Andrea",Horwath,Hamilton Centre,horwath_andrea,CCF/NDP,f,1962,ontario,communitywork,NA,election,2018,65.25222146,49.59,36575
+M0054,"Hunter, Mitzie",Hunter,Scarborough-Guildwood,hunter_mitzie,Liberal,f,1971,jamaica,business,NA,election,2018,33.34354547,0.21,35905
+M0055,"Jones, Hon. Sylvia",Jones,Dufferin-Caledon,jones_sylvia,Progressive Conservative,f,1965,ontario,politicalstaff,NA,election,2018,53.08456645,32.75,55956
+M0056,"Kanapathi, Logan",Kanapathi,Markham-Thornhill,kanapathi_logan,Progressive Conservative,m,NA,srilanka,business,NA,election,2018,50.45009055,26.05,37548
+M0057,"Karahalios, Belinda C.",Karahalios,Cambridge,karahalios_belinda,Progressive Conservative,f,NA,NA,business,NA,election,2018,36.96785855,4.48,48131
+M0058,"Karpoche, Bhutila",Karpoche,Parkdale-High Park,karpoche_bhutila,CCF/NDP,f,1983,nepal,medicine,NA,election,2018,59.40897175,41.4,54549
+M0059,"Ke, Vincent",Ke,Don Valley North,ke_vincent,Progressive Conservative,m,NA,china,engineering,NA,election,2018,44.44061369,13.52,40607
+M0060,"Kernaghan, Terence",Kernaghan,London North Centre,kernaghan_terence,CCF/NDP,m,NA,ontario,education,NA,election,2018,47.59854379,16.74,54113
+M0061,"Khanjin, Hon. Andrea",Khanjin,Barrie-Innisfil,khanjin_andrea,Progressive Conservative,f,1987,sovietunion,publicservice,NA,election,2018,49.96611854,21.37,44272
+M0062,"Kramp, Daryl",Kramp,Hastings-Lennox and Addington,kramp_daryl,Progressive Conservative,m,1947,ontario,police,NA,election,2018,50.25493587,17.82,44521
+M0063,"Kusendova-Bashta, Hon. Natalia",Kusendova,Mississauga Centre,kusendova-bashta_natalia,Progressive Conservative,f,NA,NA,medicalcare,catholic,election,2018,40.86021505,13.3,43710
+M0064,"Lalonde, Marie-France",Lalonde,Orléans,lalonde_marie-france,Liberal,f,1971,ontario,communitywork,NA,election,2018,39.04925723,3.85,63950
+M0065,"Lecce, Hon. Stephen",Lecce,King-Vaughan,lecce_stephen,Progressive Conservative,m,1986,ontario,politicalstaff,catholic,election,2018,56.61763277,33.28,51461
+M0066,"Lindo, Laura Mae",Lindo,Kitchener Centre,lindo_laura,CCF/NDP,f,1976,ontario,education,NA,election,2018,43.38409475,15.72,47280
+M0067,"MacLeod, Lisa",MacLeod,Nepean,macleod_lisa,Progressive Conservative,f,1974,novascotia,politicalstaff,NA,election,2018,45.12906698,16.6,52957
+M0068,"Mamakwa, Sol",Mamakwa,Kiiwetinoong,mamakwa_sol,CCF/NDP,m,NA,ontario,NA,NA,election,2018,49.8996449,22.65,6477
+M0069,"Mantha, Michael",Mantha,Algoma-Manitoulin,mantha_michael,CCF/NDP,m,NA,NA,politicalstaff,NA,election,2018,58.55670809,34.1,29211
+M0070,"Martin, Robin",Martin,Eglinton-Lawrence,martin_robin,Progressive Conservative,f,NA,saskatchewan,law,NA,election,2018,40.37999475,1.93,49527
+M0071,"Martow, Gila",Martow,Thornhill,martow_gila,Progressive Conservative,f,1961,quebec,medicine,jewish,election,2018,61.1290971,41.8,47259
+M0072,"McDonell, Jim",McDonell,Stormont-Dundas-South Glengarry,mcdonell_jim,Progressive Conservative,m,1954,ontario,engineering,NA,election,2018,61.50948597,39.88,43538
+M0073,"McKenna, Jane",McKenna,Burlington,mckenna_jane,Progressive Conservative,f,1959,ontario,business,NA,election,2018,40.44722861,11.82,63055
+M0074,"McNaughton, Monte",McNaughton,Lambton-Kent-Middlesex,mcnaughton_monte,Progressive Conservative,m,1977,ontario,business,NA,election,2018,55.34269396,22.03,50424
+M0075,"Miller, Norman",Miller (Parry Sound-Muskoka),Parry Sound-Muskoka,miller_norman,Progressive Conservative,m,1956,ontario,pilot,NA,election,2018,48.07076342,26.04,47143
+M0076,"Miller, Paul",Miller (Hamilton East-Stoney Creek),Hamilton East-Stoney Creek,miller_paul,CCF/NDP,m,1951,ontario,worker,NA,election,2018,51.1540209,22.34,44020
+M0077,"Mitas, Christina Maria",Mitas,Scarborough Centre,mitas_christina,Progressive Conservative,f,NA,ontario,education,NA,election,2018,38.4495265,5.09,39704
+M0078,"Monteith-Farrell, Judith",Monteith-Farrell,Thunder Bay-Atikokan,monteith-farrell_judith,CCF/NDP,f,NA,NA,NA,NA,election,2018,36.25826287,0.25,32525
+M0079,"Morrison, Suze",Morrison,Toronto Centre,morrison_suze,CCF/NDP,f,1988,ontario,communications,NA,election,2018,53.65588475,26.51,44148
+M0080,"Mulroney, Hon. Caroline",Mulroney,York-Simcoe,mulroney_caroline,Progressive Conservative,f,1974,quebec,business,catholic,election,2018,57.26407421,33.84,45491
+M0081,"Natyshak, Taras",Natyshak,Essex,natyshak_taras,CCF/NDP,m,1977,ontario,unionism,NA,election,2018,47.94965415,4.97,54503
+M0082,"Nicholls, Rick",Nicholls,Chatham-Kent-Leamington,nicholls_rick,Progressive Conservative,m,1951,ontario,business,NA,election,2018,51.92245488,16.22,46373
+M0083,"Oosterhoff, Hon. Sam",Oosterhoff,Niagara West,oosterhoff_sam,Progressive Conservative,m,1997,ontario,politicalstaff,protestant,election,2018,52.81229703,23,46190
+M0084,"Pang, Billy",Pang,Markham-Unionville,pang_billy,Progressive Conservative,m,NA,hongkong,publicservice,NA,election,2018,62.43076268,44.42,46940
+M0085,"Park, Lindsey",Park,Durham,park_lindsey,Progressive Conservative,f,NA,ontario,law,NA,election,2018,46.99294489,15.33,60807
+M0086,"Parsa, Hon. Michael",Parsa,Aurora-Oak Ridges-Richmond Hill,parsa_michael,Progressive Conservative,m,NA,NA,business,NA,election,2018,56.03360149,34.44,44998
+M0087,"Pettapiece, Randy",Pettapiece,Perth-Wellington,pettapiece_randy,Progressive Conservative,m,1949,ontario,business,NA,election,2018,50.67139167,19.96,46843
+M0088,"Phillips, Rod",Phillips,Ajax,phillips_rod,Progressive Conservative,m,1965,ontario,business,NA,election,2018,39.0462546,8.08,48860
+M0089,"Piccini, Hon. David",Piccini,Northumberland-Peterborough South,piccini_david,Progressive Conservative,m,1988,ontario,publicservice,NA,election,2018,45.32380054,20.82,60423
+M0090,"Rakocevic, Tom",Rakocevic,Humber River-Black Creek,rakocevic_tom,CCF/NDP,m,NA,ontario,politicalstaff,NA,election,2018,37.41795726,7.13,30929
+M0091,"Rasheed, Kaleed",Rasheed,Mississauga East-Cooksville,rasheed_kaleed,Progressive Conservative,m,1982,pakistan,business,muslim,election,2018,41.15194102,10.92,43405
+M0092,"Rickford, Hon. Greg",Rickford,Kenora-Rainy River,rickford_greg,Progressive Conservative,m,1967,ontario,medicalcare,NA,election,2018,48.56758507,11.24,20071
+M0093,"Roberts, Jeremy",Roberts,Ottawa West-Nepean,roberts_jeremy,Progressive Conservative,m,1991,ontario,politicalstaff,NA,election,2018,32.82223761,0.35,50545
+M0094,"Romano, Ross",Romano,Sault Ste. Marie,romano_ross,Progressive Conservative,m,1979,ontario,law,NA,election,2018,42.02758664,1.29,32117
+M0095,"Sabawy, Sheref",Sabawy,Mississauga-Erin Mills,sabawy_sheref,Progressive Conservative,m,NA,egypt,engineering,NA,election,2018,41.61049642,14.01,47178
+M0096,"Sandhu, Amarjot",Sandhu,Brampton West,sandhu_amarjot,Progressive Conservative,m,NA,india,engineering,NA,election,2018,39.38515845,1.29,37961
+M0097,"Sarkaria, Hon. Prabmeet Singh",Sarkaria,Brampton South,sarkaria_prabmeet,Progressive Conservative,m,1988,ontario,law,sikhism,election,2018,41.0071,7.16,38169
+M0098,"Sattler, Peggy",Sattler,London West,sattler_peggy,CCF/NDP,f,1962,ontario,politicalstaff,NA,election,2018,55.33256492,26.29,58996
+M0099,"Schreiner, Mike",Schreiner,Guelph,schreiner_mike,Green Party,m,1969,unitedstates,business,NA,election,2018,45.03460985,23.22,64577
+M0100,"Scott, Laurie",Scott,Haliburton-Kawartha Lakes-Brock,scott_laurie,Progressive Conservative,f,1962,ontario,medicalcare,NA,election,2018,56.71035822,30.21,57143
+M0101,"Shaw, Sandy",Shaw,Hamilton West-Ancaster-Dundas,shaw_sandy,CCF/NDP,f,1960,ontario,business,NA,election,2018,43.18649576,12.15,55390
+M0102,"Simard, Amanda",Simard,Glengarry-Prescott-Russell,simard_amanda,Progressive Conservative,f,1989,ontario,politicalstaff,NA,election,2018,40.97761347,9.33,48690
+M0103,"Singh, Gurratan",Singh (Brampton East),Brampton East,singh_gurratan,CCF/NDP,m,1984,newfoundland,law,sikhism,election,2018,46.92037927,13.42,38495
+M0104,"Singh, Sara",Singh (Brampton Centre),Brampton Centre,singh_sara,CCF/NDP,f,1985,ontario,communitywork,NA,election,2018,38.37133163,0.26,33598
+M0105,"Skelly, Hon. Donna",Skelly,Flamborough-Glanbrook,skelly_donna,Progressive Conservative,f,1961,ontario,journalism,NA,election,2018,43.52562611,9.35,51588
+M0106,"Smith, Dave",Smith (Peterborough-Kawartha),Peterborough-Kawartha,smith_dave,Progressive Conservative,m,1970,ontario,business,NA,election,2018,37.67724955,3.92,60790
+M0107,"Smith, Todd",Smith (Bay of Quinte),Bay of Quinte,smith_todd,Progressive Conservative,m,1970,newbrunswick,communications,NA,election,2018,48.0234725,16.18,50442
+M0108,"Stevens, Jennifer (Jennie)",Stevens,St. Catharines,stevens_jennifer,CCF/NDP,f,NA,NA,publicservice,NA,election,2018,36.61374637,3.02,51650
+M0109,"Stiles, Marit",Stiles,Davenport,stiles_marit,CCF/NDP,f,1969,newfoundland,communications,NA,election,2018,60.26539209,41.59,45819
+M0110,"Surma, Hon. Kinga",Surma,Etobicoke Centre,surma_kinga,Progressive Conservative,f,NA,poland,politicalstaff,NA,election,2018,42.99516058,8.31,56825
+M0111,"Tabuns, Peter",Tabuns,Toronto-Danforth,tabuns_peter,CCF/NDP,m,1951,ontario,communitywork,NA,election,2018,64.24545047,48.39,51269
+M0112,"Tangri, Hon. Nina",Tangri,Mississauga-Streetsville,tangri_nina,Progressive Conservative,f,NA,england,business,NA,election,2018,43.53056459,17.69,47964
+M0113,"Taylor, Monique",Taylor,Hamilton Mountain,taylor_monique,CCF/NDP,f,1972,ontario,worker,NA,election,2018,54.57879554,25.75,44717
+M0114,"Thanigasalam, Hon. Vijay",Thanigasalam,Scarborough-Rouge Park,thanigasalam_vijay,Progressive Conservative,m,1989,srilanka,business,NA,election,2018,38.61478044,2.29,42015
+M0115,"Thompson, Hon. Lisa M.",Thompson,Huron-Bruce,thompson_lisa,Progressive Conservative,f,1965,ontario,business,NA,election,2018,52.35786523,23.33,52802
+M0116,"Tibollo, Hon. Michael A.",Tibollo,Vaughan-Woodbridge,tibollo_michael,Progressive Conservative,m,1960,ontario,law,catholic,election,2018,50.49830019,18.5,42946
+M0117,"Triantafilopoulos, Effie J.",Triantafilopoulos,Oakville North-Burlington,triantafilopoulos_effie,Progressive Conservative,f,NA,NA,law,NA,election,2018,46.41469892,22.03,55351
+M0118,"Vanthof, John",Vanthof,Timiskaming-Cochrane,vanthof_john,CCF/NDP,m,1963,ontario,agriculture,NA,election,2018,61.19951932,38.77,27461
+M0119,"Wai, Daisy",Wai,Richmond Hill,wai_daisy,Progressive Conservative,f,NA,NA,business,NA,election,2018,51.24161306,23.32,43371
+M0120,"Walker, Bill",Walker,Bruce-Grey-Owen Sound,walker_bill,Progressive Conservative,m,1966,ontario,business,NA,election,2018,54.70200293,30.61,49128
+M0121,"West, Jamie",West,Sudbury,west_jamie,CCF/NDP,m,NA,ontario,unionism,NA,election,2018,48.07144635,24.83,36167
+M0122,"Wilson, Jim",Wilson,Simcoe-Grey,wilson_jim,Progressive Conservative,m,1963,ontario,politicalstaff,NA,election,2018,55.92572544,33.87,60963
+M0123,"Wynne, Kathleen O.",Wynne,Don Valley West,wynne_kathleen,Liberal,f,1953,ontario,communitywork,protestant,election,2018,38.88852481,0.4,45777
+M0124,"Yakabuski, John",Yakabuski,Renfrew-Nipissing-Pembroke,yakabuski_john,Progressive Conservative,m,1957,ontario,business,protestant,election,2018,69.19230689,52.46,48199
+M0125,"Yarde, Kevin",Yarde,Brampton North,yarde_kevin,CCF/NDP,m,NA,ontario,communications,NA,election,2018,37.54542701,1.25,39624
+M0126,"Yurek, Jeff",Yurek,Elgin-Middlesex-London,yurek_jeff,Progressive Conservative,m,1971,ontario,pharmacy,NA,election,2018,55.45890424,23.39,52767

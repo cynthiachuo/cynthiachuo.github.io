@@ -1,0 +1,18 @@
+member_id,event_date,event_type,from_party,to_party,notes,url
+M0122,11/5/2018,party_change,Progressive Conservative,Independent,resigned from caucus after sexual misconduct allegations.,https://www.ctvnews.ca/canada/article/doug-ford-confirms-sexual-misconduct-allegation-against-jim-wilson/
+M0102,11/29/2018,party_change,Progressive Conservative,Independent,resigned from caucus in opposition to government cuts to francophone services.,https://www.cbc.ca/news/canada/ottawa/amanda-simard-mpp-progressive-conservative-1.4925179
+M0051,2/20/2019,party_change,Progressive Conservative,Independent,removed from caucus for comments about autism.,https://www.cbc.ca/news/canada/ottawa/hillier-expelled-opc-caucus-1.5058281
+M0028,7/31/2019,resignation,,NA,resigned to become Principal at Massey College.,https://ottawacitizen.com/news/local-news/liberal-mpp-nathalie-des-rosiers-officially-resigns
+M0064,9/20/2019,resignation,,NA,resigned to run in the federal election.,https://www.cbc.ca/news/canada/ottawa/marie-france-lalonde-orleans-nomination-contentious-1.5290962
+M0102,1/16/2020,party_change,Independent,Liberal,joined the Liberal Party. ,https://www.cbc.ca/news/canada/toronto/amanda-simard-liberal-pcs-1.5429564
+M0024,2/27/2020,entrance,NA,Liberal,won by-election. ,https://globalnews.ca/news/6608217/ontario-liberals-win-provincial-byelections-in-ottawa-vanier-orleans/
+M0015,2/27/2020,entrance,NA,Liberal,won by-election. ,https://globalnews.ca/news/6608217/ontario-liberals-win-provincial-byelections-in-ottawa-vanier-orleans/
+M0057,7/21/2020,party_change,Progressive Conservative,Independent,removed from caucus for voting against Bill 195 (COVID-19 response),https://www.cbc.ca/news/canada/kitchener-waterloo/belinda-karahalios-cambridge-progressive-conservative-1.5658084
+M0006,1/15/2021,party_change,Progressive Conservative,Independent,removed from caucus for opposing COVID-19 measures. ,https://www.cbc.ca/news/canada/toronto/york-roman-baber-ontario-covid-19-january-15-2021-1.5874606
+M0025,8/17/2021,resignation,,NA,resigned to run in the federal election.,https://www.thestar.com/politics/provincial/former-ontario-ministers-michael-coteau-and-yasir-naqvi-running-as-liberal-candidates-in-the-next/article_c93cb03b-7532-5280-bad8-7a7ecb2e36d7.html
+M0082,8/19/2021,party_change,Progressive Conservative,Independent,removed from caucus for refusing to get the COVID-19 vaccination. ,https://www.cbc.ca/news/canada/toronto/rick-nicholls-mpp-vaccine-1.6146791
+M0085,10/22/2021,party_change,Progressive Conservative,Independent,resigned from caucus after misrepresenting her COVID-19 vaccination status. ,https://www.thestar.com/politics/provincial/progressive-conservative-mpp-who-misrepresented-her-covid-19-vaccination-status-resigns-from-caucus/article_e7a17301-11c7-587c-91fc-61d5c8ef0710.html
+M0088,2/2/2022,resignation,,NA,resigned to return to the private sector. ,https://www.cbc.ca/news/canada/toronto/rod-phillips-not-running-in-june-election-1.6315604
+M0126,2/28/2022,resignation,,NA,resigned to retire from politics. ,https://globalnews.ca/news/8495817/jeff-yurek-mpp-resign-elgin-middlesex-london/
+M0076,3/17/2022,party_change,CCF/NDP,Independent,removed from caucus for joining an Islamophobic Facebook group.,https://www.cbc.ca/news/canada/hamilton/paul-miller-ndp-facebook-post-1.6394877
+M0125,4/22/2022,party_change,CCF/NDP,Independent,resigned after losing nomination for re-election.,https://www.cbc.ca/news/canada/toronto/brampton-ndp-kevin-yarde-1.6428046

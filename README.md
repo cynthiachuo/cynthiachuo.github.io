@@ -33,9 +33,16 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 
 <br/>
 
-## Works in Progress
 
-“Legislative Behaviour and the Dynamics of Representation in the Canadian Provinces.”
+## Data
+
+Scraped Roll-Call Voting Data from the 42nd Parliament of the Legislative Assembly of Ontario:
+[View raw data](cynthiachuo.github.io/documents/events_42.csv)
+[View raw data](cynthiachuo.github.io/documents/members_42.csv)
+[View raw data](cynthiachuo.github.io/documents/votes_42.csv)
+[View raw data](cynthiachuo.github.io/documents/rollcalls_42.csv)
+[View raw data](cynthiachuo.github.io/documents/README.pdf)
+
 
 ## Contact 
 You can find me on X [here](https://twitter.com/cynthiachuo). My email address is **cynthia.huo@princeton.edu**

@@ -37,11 +37,11 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 ## Data
 
 Scraped Roll-Call Voting Data from the 42nd Parliament of the Legislative Assembly of Ontario:
-[View raw data](cynthiachuo.github.io/documents/events_42.csv)
-[View raw data](cynthiachuo.github.io/documents/members_42.csv)
-[View raw data](cynthiachuo.github.io/documents/votes_42.csv)
-[View raw data](cynthiachuo.github.io/documents/rollcalls_42.csv)
-[View raw data](cynthiachuo.github.io/documents/README.pdf)
+- [README](cynthiachuo.github.io/documents/README.pdf)
+- [events_42.csv](cynthiachuo.github.io/documents/events_42.csv)
+- [members_42.csv](cynthiachuo.github.io/documents/members_42.csv)
+- [votes_42.csv](cynthiachuo.github.io/documents/votes_42.csv)
+- [rollcalls_42.csv](cynthiachuo.github.io/documents/rollcalls_42.csv)
 
 
 ## Contact 

@@ -50,5 +50,9 @@ You can find me on X [here](https://twitter.com/cynthiachuo). My email address i
 <br/>
 
 ## Ethics Documentation
+Survey of Canadian political science professors (2026): available [here](cynthiachuo.github.io/documents/Research-Summary.pdf)
+
 Survey of MPs in the Canadian House of Commons (2024): available in English [here](cynthiachuo.github.io/documents/Ethics-Documentation-English.pdf).
  and French [here](cynthiachuo.github.io/documents/Ethics-Documentation-French.pdf). 
+
+ 

@@ -2,9 +2,9 @@
 
 <br/>
 
-I am a second-year PhD student in Politics at **Princeton University** and an affiliate of the **Center for the Study of Democratic Politics**. My research interests are in American and Canadian political institutions.
+I am a third-year PhD candidate in Politics at **Princeton University** and an affiliate of the **Center for the Study of Democratic Politics**. My research interests are in American and Canadian political institutions.
 
-I grew up in Markham, Ontario and received my BA in Political Science from the **University of Western Ontario** in 2023. 
+I received my BA in Political Science from the **University of Western Ontario** in 2023. 
 
 Before coming to Princeton, I worked on Parliament Hill as part of the [**Parliamentary Internship Programme**](https://pip-psp.org/).
 
@@ -23,7 +23,7 @@ You can access the latest version of my CV [here](cynthiachuo.github.io/document
 
 - **Huo, Cynthia**, Philip Charbonneau, and Christopher Alcantara. 2022. [“Overcoming Barriers to Indigenous-Local Water Sharing Agreements in Canada.”](https://doi.org/10.1111/capa.12492) _Canadian Public Administration_ 65(3): 421-438.
 
-### Under Review
+### Forthcoming
 - **Huo, Cynthia**. “Committees as a Workplace: Examining the Organization, Functions, and Realities of Committees in the House of Commons.” In _Parliament as a Workplace: Trends and Changes_. Organized by the Canadian Study of Parliament Group.
 
 ### Other Publications 
@@ -50,7 +50,7 @@ You can find me on X [here](https://twitter.com/cynthiachuo). My email address i
 <br/>
 
 ## Ethics Documentation
-Survey of Canadian political science professors (2026): available [here](cynthiachuo.github.io/documents/Research-Summary.pdf)
+Survey of Canadian political science professors (2026): available [here](cynthiachuo.github.io/documents/research_summary.pdf)
 
 Survey of MPs in the Canadian House of Commons (2024): available in English [here](cynthiachuo.github.io/documents/Ethics-Documentation-English.pdf).
  and French [here](cynthiachuo.github.io/documents/Ethics-Documentation-French.pdf). 
